@@ -1,0 +1,110 @@
+ul{
+  list-style: none;
+}
+
+.spacing{
+  padding-top: 18px;
+}
+
+.lrSpacing{
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+#srchButton{
+  border-style: none;
+  background: transparent;
+}
+
+.shadow1{
+  text-shadow: 0px 3px 5px rgba(0, 0, 0, 0.56);
+}
+
+#srchInput{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  border: none;
+  box-shadow: none;
+  font-size: small;
+  background: transparent;
+}
+
+#srchBorder{
+  border: 2px solid black;
+  border-radius: 15px;
+  
+}
+
+.fontColor{
+  color: black !important;
+}
+
+.division1{
+  background-image: url("./images/gradient.png");
+  height: auto;
+  width: auto;
+  border: none;
+  
+
+}
+
+.textFormatting{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.sizing{
+  max-width: 1080px;
+  max-height: 420px;
+
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+#navbar{
+  box-shadow: rgba(0, 0, 0, 0.56);
+  border: none;
+  max-height: 74px;
+  
+}
+
+#buildButton{
+  border-radius: 30px !important;
+  background-color: #82F09C;
+  box-shadow: 1px 3px 5px #303030;
+  margin-top:10px;
+  margin-bottom: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.hvr :hover{
+  font-size: 1.50rem !important;
+  text-shadow: 0px 1px 1px rgba(60, 4, 189, 0.363);
+}
+
+#nav-items{
+max-width: 718.8px;
+}
+
+
+.division2{
+  background-image: url("./images/waveyPattern.png");
+  height: auto;
+  width: auto;
+  border: none;
+}
+
+.division3{
+  border: none;
+  background: white;
+  padding-bottom: 50px;
+}
+.footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
